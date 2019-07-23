@@ -4,6 +4,7 @@ The purpose of this assignment is to implement various data structures and algor
 
 Overview
 One of the most important ADTs is the Dictionary and one of the most studied problems is sorting. In this assignment, you will write multiple implementations of sorting algorithms.
+You must understand when comparisons and movements happen.
 
 # Execute
 1. Input a number of size of list you wish to sort.
