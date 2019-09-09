@@ -17,7 +17,7 @@ It is also able to see differcnes when same size of arrays are in different orde
 # Execute
 1. Input a number of size of list you wish to sort.
 
-2. After your input, it will show report of
+2. After your input, it will show report of run time, the number of movements and comparisons of elements
 - insertion sort
 - selection sort
 - quick sort
